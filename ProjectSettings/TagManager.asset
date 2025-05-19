@@ -9,6 +9,26 @@ TagManager:
   - 2
   - 3
   - 0
+  - contentHolder
+  - settingButton
+  - playerSelectionPanel
+  - playOffline
+  - playOnline
+  - settingsPanel
+  - homePanel
+  - 2p
+  - 3p
+  - 4p
+  - startButton
+  - homeButton
+  - musicButton
+  - soundButton
+  - vibrationButton
+  - shareButton
+  - previousButton
+  - optionButton
+  - optionPanel
+  - profile
   layers:
   - Default
   - TransparentFX
